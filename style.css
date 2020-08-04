@@ -156,6 +156,23 @@ nav ul li a{
 	text-align: center;
 }
 
+.more-info p{
+	margin: 18px 0 35px;
+}
+
+.more-info h2{
+	margin: 50px 0;
+}
+
+.highlight{
+	background-color: #ffadf9;
+	color: #ff3300;
+	padding: 5px 10px;
+	display: inline;
+	line-height: 50px;
+	font-weight: 800;
+}
+
 
 /*
 
