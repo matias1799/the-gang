@@ -34,7 +34,7 @@ p{
 
 .wrapper{
 	width: 960px;
-	margin: 0 auto;
+	margin: auto;
 }
 
 .hero-banner{
@@ -67,7 +67,7 @@ p{
 	background-size: 100%;
 	width: 363px;
 	height: 344px;
-	position: absolute; top: 5%; right: 10%;
+	position: absolute; top: 5%; right: 5%;
 	transform: rotate(15deg);
 }
 
@@ -76,7 +76,7 @@ p{
 	background-size: 100%;
 	width: 309px;
 	height: 371px;
-	position: absolute; top: 163px; right: 277px;
+	position: absolute; top: 163px; right: 18%;
 }
 
 .character3{
@@ -84,7 +84,7 @@ p{
 	background-size: 100%;
 	width: 297px;
 	height: 286px;
-	position: absolute; top: 230px; right: 109px;
+	position: absolute; top: 230px; right: 4%;
 }
 
 a.cta,
