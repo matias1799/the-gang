@@ -39,7 +39,7 @@ p{
 
 .hero-banner{
 	background-color: #007fff;
-	min-height: 100vh;
+	min-height: 50vh;
 	padding: 50px 20px;
 	box-sizing: border-box;
 	position: relative;
@@ -67,7 +67,7 @@ p{
 	background-size: 100%;
 	width: 363px;
 	height: 344px;
-	position: absolute; top: 10%; right: 10%;
+	position: absolute; top: 5%; right: 10%;
 	transform: rotate(15deg);
 }
 
@@ -76,7 +76,7 @@ p{
 	background-size: 100%;
 	width: 309px;
 	height: 371px;
-	position: absolute; top: 213px; right: 277px;
+	position: absolute; top: 163px; right: 277px;
 }
 
 .character3{
@@ -84,7 +84,7 @@ p{
 	background-size: 100%;
 	width: 297px;
 	height: 286px;
-	position: absolute; bottom: 40px; right: 109px;
+	position: absolute; top: 230px; right: 109px;
 }
 
 a.cta,
